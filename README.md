@@ -6,6 +6,8 @@ link: https://ieeexplore.ieee.org/document/10890181
 ## Introduction
 
 ## Usage
+### Pre-processing
+Curved Planar Reformation (CPR) tools: https://github.com/Ruabert/CADSegmTools
 ### Train
 
 ### Inference
