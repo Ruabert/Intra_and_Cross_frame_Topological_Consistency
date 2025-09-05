@@ -16,7 +16,7 @@ Curved Planar Reformation (CPR) tools: https://github.com/Ruabert/CADSegmTools
 
 ## Citation
 If you use this toolbox or benchmark in your research, please cite this project.
-"""
+```
 @INPROCEEDINGS{10890181,
   author={Zhang, Ziheng and Li, Zihan and Shan, Dandan and Qiu, Yuehui and Hong, Qingqi and Wu, Qingqiang},
   booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
@@ -27,4 +27,4 @@ If you use this toolbox or benchmark in your research, please cite this project.
   pages={1-5},
   keywords={Image segmentation;Network topology;Atherosclerosis;Transforms;Signal processing;Skeleton;Topology;Reliability;Speech processing;Image reconstruction;Semi-supervised segmentation;Atherosclerosis analysis;Topological consistency},
   doi={10.1109/ICASSP49660.2025.10890181}}
-"""
+```
