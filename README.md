@@ -11,9 +11,13 @@ performance of current deep learning models, compounded by the inherent difficul
 ### Pre-processing
 Curved Planar Reformation (CPR) tools: https://github.com/Ruabert/CADSegmTools
 ### Train
-
+```
+python train.py
+```
 ### Inference
-
+```
+python prediction.py
+```
 ## Citation
 If you use this toolbox or benchmark in your research, please cite this project.
 ```
